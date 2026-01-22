@@ -81,16 +81,60 @@
 
 ## 📁 Danh Sách Giáo Án Chi Tiết
 
+### 🟢 GIAI ĐOẠN 1: VÁ LỖ HỔNG & TĂNG TỐC (Buổi 1-8)
 - [Buổi 01](./buoi-01-gioi-tu-there-is-are.md) - Giới từ In/On/At & There is/are
 - [Buổi 02](./buoi-02-wh-questions.md) - Wh-Questions & Luyện tập
-- [Buổi 03](./buoi-03-qua-khu-don.md) - Thì Quá khứ đơn
+- [Buổi 03](./buoi-03-qua-khu-don.md) - Thì Quá khứ đơn & Động từ BQT
 - [Buổi 04](./buoi-04-so-sanh.md) - So sánh Hơn & Nhất
-- [Buổi 05](./buoi-05-cau-gian-tiep.md) - Câu gián tiếp
+- [Buổi 05](./buoi-05-cau-gian-tiep.md) - Câu gián tiếp (Reported Speech)
 - [Buổi 06](./buoi-06-wh-to-v.md) - Cấu trúc Wh- + To V
 - [Buổi 07](./buoi-07-used-to-wish.md) - Used to & Wish
-- [Buổi 08](./buoi-08-test-1.md) - Bài Test Số 1
-- ... (Tiếp tục cho các buổi sau)
+- [Buổi 08](./buoi-08-test-1.md) - 📝 Bài Test Số 1
+
+### 🟡 GIAI ĐOẠN 2: CHINH PHỤC BIẾN ĐỔI CÂU (Buổi 9-24)
+- [Buổi 09](./buoi-09-bi-dong.md) - Câu Bị động cơ bản
+- [Buổi 10](./buoi-10-bi-dong-nang-cao.md) - Bị động đặc biệt & Suggest
+- [Buổi 11](./buoi-11-qua-khu-hoan-thanh.md) - Quá khứ hoàn thành (Had + V3)
+- [Buổi 12](./buoi-12-dieu-kien-gian-tiep.md) - Câu điều kiện & Gián tiếp nâng cao
+- [Buổi 13](./buoi-13-dinh-luong-tu.md) - Định lượng từ (Quantifiers)
+- [Buổi 14](./buoi-14-modal-verbs.md) - Modal Verbs
+- [Buổi 15](./buoi-15-mao-tu.md) - Mạo từ A/An/The
+- [Buổi 16-24](./buoi-16-24-phase2-tiep.md) - Danh từ ghép, MĐQH, Test 2
+
+### 🟠 GIAI ĐOẠN 3: KỸ NĂNG NÂNG CAO (Buổi 25-32)
+- [Buổi 25-32](./buoi-25-32-phase3.md) - Phrasal Verbs, Collocations, Word Form, Reading Skills
+
+### 🔴 GIAI ĐOẠN 4: LUYỆN ĐỀ THỰC CHIẾN (Buổi 33-40)
+- [Buổi 33-40](./buoi-33-40-phase4.md) - Giải đề Full Test & Tổng kết
+
+---
+
+## 📊 TỔNG KẾT NỘI DUNG
+
+### Ngữ pháp đã học:
+| STT | Chủ đề | Buổi |
+|-----|--------|------|
+| 1 | Giới từ In/On/At | 1 |
+| 2 | There is/are | 1 |
+| 3 | Wh-Questions | 2 |
+| 4 | Thì Quá khứ đơn | 3 |
+| 5 | So sánh Hơn/Nhất | 4 |
+| 6 | Câu gián tiếp | 5, 12 |
+| 7 | Wh- + To V | 6 |
+| 8 | Used to / Wish | 7 |
+| 9 | Câu bị động | 9, 10, 22 |
+| 10 | Quá khứ hoàn thành | 11 |
+| 11 | Câu điều kiện 1, 2 | 12, 17 |
+| 12 | Định lượng từ | 13 |
+| 13 | Modal Verbs | 14 |
+| 14 | Mạo từ | 15 |
+| 15 | Danh từ ghép | 16 |
+| 16 | Mệnh đề quan hệ | 18, 19, 21 |
+| 17 | Although/Despite | 23 |
+
+### Từ vựng: 400 từ/cụm từ (10 từ x 40 buổi)
 
 ---
 
 *Giáo trình được thiết kế chi tiết cho từng buổi học 2 tiếng*
+*Mục tiêu: Đưa học sinh từ 5 điểm lên 8+*

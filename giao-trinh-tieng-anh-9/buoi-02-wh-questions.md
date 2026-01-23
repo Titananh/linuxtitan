@@ -1,4 +1,4 @@
-# 📌 BUỔI 2 (CHỦ NHẬT): WH-QUESTIONS & LUYỆN TẬP SÂU
+# 📌 BUỔI 2 (CHỦ NHẬT): WH-QUESTIONS & LUYỆN TẬP SÂU - PHIÊN BẢN NÂNG CAO
 
 ## 📋 THÔNG TIN BUỔI HỌC
 | Mục | Chi tiết |
@@ -8,21 +8,26 @@
 | **Thời lượng:** | 120 phút (2 tiếng) |
 | **Ngày:** | Chủ Nhật |
 | **Mục tiêu ngữ pháp:** | Câu hỏi Wh-, Trợ động từ, Kỹ thuật đọc hiểu |
+| **Độ khó:** | ⭐⭐⭐ NÂNG CAO - Nhiều bài tập hơn |
+| **Tổng số bài tập:** | 45 câu thực hành + 15 câu nâng cao + 6 bài về nhà |
 
 ---
 
-## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT
+## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT (PHIÊN BẢN CĂNG)
 
 | Thời gian | Hoạt động | Phút |
 |-----------|-----------|------|
-| 0:00 - 0:15 | Warm-up: Trò chơi "Ai nhanh hơn" + Kiểm tra bài cũ | 15' |
-| 0:15 - 0:20 | Chữa bài tập về nhà | 5' |
-| 0:20 - 0:50 | Lý thuyết: Câu hỏi Wh- & Trợ động từ | 30' |
-| 0:50 - 0:55 | Nghỉ giải lao | 5' |
-| 0:55 - 1:25 | Thực hành: Bài tập đọc hiểu Unit 1 | 30' |
-| 1:25 - 1:40 | Kỹ thuật tìm từ khóa trong đọc hiểu | 15' |
-| 1:40 - 1:55 | Học từ vựng: 10 động từ/cụm động từ | 15' |
-| 1:55 - 2:00 | Giao bài tập về nhà + Dặn dò | 5' |
+| 0:00 - 0:10 | Kiểm tra từ vựng buổi 1 (10 từ) | 10' |
+| 0:10 - 0:20 | Chữa bài tập về nhà + Warm-up game | 10' |
+| 0:20 - 0:40 | Lý thuyết: Câu hỏi Wh- & Trợ động từ | 20' |
+| 0:40 - 0:45 | Nghỉ giải lao | 5' |
+| 0:45 - 1:05 | Thực hành A: 20 câu trắc nghiệm Wh-questions | 20' |
+| 1:05 - 1:25 | Thực hành B: 15 câu đặt câu hỏi + đọc hiểu | 20' |
+| 1:25 - 1:40 | Thực hành C: 10 câu viết lại câu | 15' |
+| 1:40 - 1:50 | Học từ vựng: 10 động từ/cụm động từ | 10' |
+| 1:50 - 2:00 | Challenge + Giao BTVN | 10' |
+
+**⚡ LƯU Ý:** Kiểm tra từ vựng đầu giờ - không thuộc phải chép phạt!
 
 ---
 

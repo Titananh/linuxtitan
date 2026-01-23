@@ -1,4 +1,4 @@
-# 📌 BUỔI 9 (THỨ 4): CÂU BỊ ĐỘNG (PASSIVE VOICE) - CƠ BẢN
+# 📌 BUỔI 9 (THỨ 4): CÂU BỊ ĐỘNG (PASSIVE VOICE) - PHIÊN BẢN NÂNG CAO
 
 ## 📋 THÔNG TIN BUỔI HỌC
 | Mục | Chi tiết |
@@ -8,20 +8,26 @@
 | **Thời lượng:** | 120 phút (2 tiếng) |
 | **Ngày:** | Thứ 4 |
 | **Mục tiêu ngữ pháp:** | Câu bị động các thì cơ bản |
+| **Độ khó:** | ⭐⭐⭐⭐ RẤT QUAN TRỌNG - Hay ra trong đề thi |
+| **Tổng số bài tập:** | 45 câu thực hành + 15 câu nâng cao + 6 bài về nhà |
 
 ---
 
-## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT
+## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT (PHIÊN BẢN CĂNG)
 
 | Thời gian | Hoạt động | Phút |
 |-----------|-----------|------|
-| 0:00 - 0:15 | Warm-up: Trả bài Test + Phân tích lỗi | 15' |
-| 0:15 - 0:50 | Lý thuyết: Câu bị động cơ bản | 35' |
-| 0:50 - 0:55 | Nghỉ giải lao | 5' |
-| 0:55 - 1:25 | Lý thuyết: Bị động các thì | 30' |
-| 1:25 - 1:45 | Thực hành: 20 câu chuyển bị động | 20' |
-| 1:45 - 1:55 | Học từ vựng: 10 từ mới | 10' |
-| 1:55 - 2:00 | Giao bài tập về nhà + Dặn dò | 5' |
+| 0:00 - 0:10 | Trả bài Test 1 + Phân tích lỗi | 10' |
+| 0:10 - 0:20 | Kiểm tra từ vựng tuần 4 | 10' |
+| 0:20 - 0:40 | Lý thuyết: Câu bị động cơ bản | 20' |
+| 0:40 - 0:55 | Lý thuyết: Bị động các thì | 15' |
+| 0:55 - 1:00 | Nghỉ giải lao | 5' |
+| 1:00 - 1:20 | Thực hành A: 20 câu trắc nghiệm | 20' |
+| 1:20 - 1:35 | Thực hành B: 15 câu chuyển bị động | 15' |
+| 1:35 - 1:50 | Thực hành C: 10 câu tìm lỗi sai | 15' |
+| 1:50 - 2:00 | Học từ vựng + Challenge + BTVN | 10' |
+
+**⚡ LƯU Ý:** Câu bị động là dạng bài QUAN TRỌNG nhất trong đề thi!
 
 ---
 

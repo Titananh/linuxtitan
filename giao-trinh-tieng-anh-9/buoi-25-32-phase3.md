@@ -1,6 +1,11 @@
-# 🟠 GIAI ĐOẠN 3: KỸ NĂNG NÂNG CAO (TUẦN 13 - 16)
+# 🟠 GIAI ĐOẠN 3: KỸ NĂNG NÂNG CAO (TUẦN 13 - 16) - PHIÊN BẢN CĂNG
 
 ## Mục tiêu: Xử lý bài Đọc hiểu và Từ vựng khó (Phrasal Verbs, Word Form)
+
+**⚡ LƯU Ý CHUNG CHO TẤT CẢ CÁC BUỔI GIAI ĐOẠN 3:**
+- Mỗi buổi có **50 câu thực hành + 20 câu nâng cao + 6 bài về nhà**
+- Kiểm tra từ vựng đầu giờ (không thuộc = chép phạt 20 lần/từ)
+- Thời gian: 120 phút, làm việc liên tục không nghỉ nhiều
 
 ---
 
@@ -13,20 +18,24 @@
 | **Chủ đề:** | Phrasal Verbs (Cụm động từ) |
 | **Thời lượng:** | 120 phút (2 tiếng) |
 | **Ngày:** | Thứ 4 |
+| **Độ khó:** | ⭐⭐⭐⭐ RẤT QUAN TRỌNG - Phrasal verbs hay ra thi |
+| **Tổng bài tập:** | 50 câu + 20 câu nâng cao + 6 BTVN |
 
 ---
 
-## ⏰ PHÂN BỐ THỜI GIAN
+## ⏰ PHÂN BỐ THỜI GIAN (PHIÊN BẢN CĂNG)
 
 | Thời gian | Hoạt động | Phút |
 |-----------|-----------|------|
-| 0:00 - 0:15 | Warm-up: Trả bài Test 2 + Phân tích | 15' |
-| 0:15 - 0:50 | Lý thuyết: Cụm động từ LOOK | 35' |
-| 0:50 - 0:55 | Nghỉ giải lao | 5' |
-| 0:55 - 1:25 | Lý thuyết: Cụm động từ GIVE | 30' |
-| 1:25 - 1:45 | Thực hành: 20 câu điền từ | 20' |
-| 1:45 - 1:55 | Ôn tập + Học thuộc | 10' |
-| 1:55 - 2:00 | Giao bài tập về nhà | 5' |
+| 0:00 - 0:10 | Trả bài Test 2 + Kiểm tra từ vựng | 10' |
+| 0:10 - 0:30 | Lý thuyết: Cụm động từ LOOK (10 cụm) | 20' |
+| 0:30 - 0:45 | Lý thuyết: Cụm động từ GIVE (10 cụm) | 15' |
+| 0:45 - 0:50 | Nghỉ giải lao | 5' |
+| 0:50 - 1:10 | Thực hành A: 20 câu trắc nghiệm | 20' |
+| 1:10 - 1:30 | Thực hành B: 20 câu điền từ | 20' |
+| 1:30 - 1:45 | Thực hành C: 10 câu viết lại câu | 15' |
+| 1:45 - 1:55 | Challenge: 20 câu nâng cao | 10' |
+| 1:55 - 2:00 | Giao BTVN + Dặn dò | 5' |
 
 ---
 

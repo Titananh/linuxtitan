@@ -1,4 +1,4 @@
-# 📌 BUỔI 11 (THỨ 4): THÌ QUÁ KHỨ HOÀN THÀNH (PAST PERFECT)
+# 📌 BUỔI 11 (THỨ 4): THÌ QUÁ KHỨ HOÀN THÀNH - PHIÊN BẢN NÂNG CAO
 
 ## 📋 THÔNG TIN BUỔI HỌC
 | Mục | Chi tiết |
@@ -8,20 +8,26 @@
 | **Thời lượng:** | 120 phút (2 tiếng) |
 | **Ngày:** | Thứ 4 |
 | **Mục tiêu ngữ pháp:** | Thì Quá khứ hoàn thành (Had + V3) |
+| **Độ khó:** | ⭐⭐⭐⭐ RẤT QUAN TRỌNG - Thường kết hợp với QKĐ |
+| **Tổng số bài tập:** | 45 câu thực hành + 15 câu nâng cao + 6 bài về nhà |
 
 ---
 
-## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT
+## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT (PHIÊN BẢN CĂNG)
 
 | Thời gian | Hoạt động | Phút |
 |-----------|-----------|------|
-| 0:00 - 0:15 | Warm-up: Kiểm tra từ vựng + Chữa bài | 15' |
-| 0:15 - 0:50 | Lý thuyết: Thì Quá khứ hoàn thành | 35' |
-| 0:50 - 0:55 | Nghỉ giải lao | 5' |
-| 0:55 - 1:25 | So sánh QKĐ và QKHT | 30' |
-| 1:25 - 1:45 | Thực hành: 20 câu chia động từ | 20' |
-| 1:45 - 1:55 | Học từ vựng: 10 từ mới | 10' |
-| 1:55 - 2:00 | Giao bài tập về nhà + Dặn dò | 5' |
+| 0:00 - 0:10 | Kiểm tra từ vựng + Chữa bài | 10' |
+| 0:10 - 0:30 | Lý thuyết: Thì Quá khứ hoàn thành | 20' |
+| 0:30 - 0:45 | So sánh QKĐ và QKHT | 15' |
+| 0:45 - 0:50 | Nghỉ giải lao | 5' |
+| 0:50 - 1:10 | Thực hành A: 20 câu trắc nghiệm | 20' |
+| 1:10 - 1:30 | Thực hành B: 15 câu chia động từ | 20' |
+| 1:30 - 1:45 | Thực hành C: 10 câu tìm lỗi sai | 15' |
+| 1:45 - 1:55 | Học từ vựng + Challenge | 10' |
+| 1:55 - 2:00 | Giao BTVN + Dặn dò | 5' |
+
+**⚡ LƯU Ý:** QKHT dùng với before/after/by the time/when - nhớ kỹ!
 
 ---
 

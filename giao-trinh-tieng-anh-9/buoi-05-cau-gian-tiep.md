@@ -1,4 +1,4 @@
-# 📌 BUỔI 5 (THỨ 4): CÂU GIÁN TIẾP (REPORTED SPEECH) - CƠ BẢN
+# 📌 BUỔI 5 (THỨ 4): CÂU GIÁN TIẾP (REPORTED SPEECH) - PHIÊN BẢN NÂNG CAO
 
 ## 📋 THÔNG TIN BUỔI HỌC
 | Mục | Chi tiết |
@@ -8,21 +8,26 @@
 | **Thời lượng:** | 120 phút (2 tiếng) |
 | **Ngày:** | Thứ 4 |
 | **Mục tiêu ngữ pháp:** | Câu gián tiếp (Reported Speech) - Câu trần thuật |
+| **Độ khó:** | ⭐⭐⭐⭐ RẤT QUAN TRỌNG - Hay ra trong đề thi |
+| **Tổng số bài tập:** | 45 câu thực hành + 15 câu nâng cao + 6 bài về nhà |
 
 ---
 
-## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT
+## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT (PHIÊN BẢN CĂNG)
 
 | Thời gian | Hoạt động | Phút |
 |-----------|-----------|------|
-| 0:00 - 0:15 | Warm-up: Sửa bài tập về nhà tuần 2 | 15' |
-| 0:15 - 0:25 | Kiểm tra từ vựng tuần 2 | 10' |
-| 0:25 - 0:55 | Lý thuyết: Câu gián tiếp - Quy tắc lùi thì | 30' |
+| 0:00 - 0:10 | Kiểm tra từ vựng tuần 2 (10 từ) | 10' |
+| 0:10 - 0:20 | Sửa bài tập về nhà tuần 2 | 10' |
+| 0:20 - 0:40 | Lý thuyết: Quy tắc lùi thì + Thần chú | 20' |
+| 0:40 - 0:55 | Lý thuyết: Đổi đại từ & Trạng từ | 15' |
 | 0:55 - 1:00 | Nghỉ giải lao | 5' |
-| 1:00 - 1:20 | Lý thuyết: Đổi đại từ & Trạng từ | 20' |
-| 1:20 - 1:45 | Thực hành: Chuyển câu trực tiếp → gián tiếp | 25' |
-| 1:45 - 1:55 | Học từ vựng: 10 từ mới | 10' |
-| 1:55 - 2:00 | Giao bài tập về nhà + Dặn dò | 5' |
+| 1:00 - 1:20 | Thực hành A: 20 câu chuyển gián tiếp | 20' |
+| 1:20 - 1:35 | Thực hành B: 15 câu trắc nghiệm | 15' |
+| 1:35 - 1:50 | Thực hành C: 10 câu tìm lỗi sai | 15' |
+| 1:50 - 2:00 | Học từ vựng + Challenge + BTVN | 10' |
+
+**⚡ LƯU Ý:** Câu gián tiếp là phần RẤT QUAN TRỌNG, học kỹ!
 
 ---
 

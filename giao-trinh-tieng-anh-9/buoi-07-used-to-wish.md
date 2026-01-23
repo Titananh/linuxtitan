@@ -1,4 +1,4 @@
-# 📌 BUỔI 7 (THỨ 4): USED TO & WISH - THÓI QUEN QUÁ KHỨ & ĐIỀU ƯỚC
+# 📌 BUỔI 7 (THỨ 4): USED TO & WISH - PHIÊN BẢN NÂNG CAO
 
 ## 📋 THÔNG TIN BUỔI HỌC
 | Mục | Chi tiết |
@@ -8,20 +8,26 @@
 | **Thời lượng:** | 120 phút (2 tiếng) |
 | **Ngày:** | Thứ 4 |
 | **Mục tiêu ngữ pháp:** | Used to + V, Wish + Quá khứ đơn |
+| **Độ khó:** | ⭐⭐⭐⭐ RẤT QUAN TRỌNG - Hay ra trong đề thi |
+| **Tổng số bài tập:** | 45 câu thực hành + 15 câu nâng cao + 6 bài về nhà |
 
 ---
 
-## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT
+## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT (PHIÊN BẢN CĂNG)
 
 | Thời gian | Hoạt động | Phút |
 |-----------|-----------|------|
-| 0:00 - 0:15 | Warm-up: Hỏi về tuổi thơ của học sinh | 15' |
-| 0:15 - 0:45 | Lý thuyết: Used to + V | 30' |
-| 0:45 - 0:50 | Nghỉ giải lao | 5' |
-| 0:50 - 1:20 | Lý thuyết: Wish + Quá khứ đơn | 30' |
-| 1:20 - 1:45 | Thực hành: Viết câu về thói quen & điều ước | 25' |
-| 1:45 - 1:55 | Học từ vựng: 10 từ mới | 10' |
-| 1:55 - 2:00 | Giao bài tập về nhà + Dặn dò | 5' |
+| 0:00 - 0:10 | Kiểm tra từ vựng tuần 3 (10 từ) | 10' |
+| 0:10 - 0:20 | Warm-up: Hỏi về tuổi thơ của học sinh | 10' |
+| 0:20 - 0:40 | Lý thuyết: Used to + V (Thần chú) | 20' |
+| 0:40 - 0:55 | Lý thuyết: Wish + Quá khứ đơn | 15' |
+| 0:55 - 1:00 | Nghỉ giải lao | 5' |
+| 1:00 - 1:20 | Thực hành A: 20 câu trắc nghiệm | 20' |
+| 1:20 - 1:35 | Thực hành B: 15 câu viết lại câu | 15' |
+| 1:35 - 1:50 | Thực hành C: 10 câu tìm lỗi sai | 15' |
+| 1:50 - 2:00 | Học từ vựng + Challenge + BTVN | 10' |
+
+**⚡ LƯU Ý:** Ôn kỹ để làm Test tuần sau - Buổi 8!
 
 ---
 

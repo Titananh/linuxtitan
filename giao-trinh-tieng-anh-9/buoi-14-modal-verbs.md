@@ -1,4 +1,4 @@
-# 📌 BUỔI 14 (CHỦ NHẬT): MODAL VERBS - ĐỘNG TỪ KHUYẾT THIẾU
+# 📌 BUỔI 14 (CHỦ NHẬT): MODAL VERBS - PHIÊN BẢN NÂNG CAO
 
 ## 📋 THÔNG TIN BUỔI HỌC
 | Mục | Chi tiết |
@@ -8,20 +8,26 @@
 | **Thời lượng:** | 120 phút (2 tiếng) |
 | **Ngày:** | Chủ Nhật |
 | **Mục tiêu ngữ pháp:** | Must, Have to, Should, Can, Could, May, Might |
+| **Độ khó:** | ⭐⭐⭐⭐ QUAN TRỌNG - Cần phân biệt nghĩa của từng modal |
+| **Tổng số bài tập:** | 45 câu thực hành + 15 câu nâng cao + 6 bài về nhà |
 
 ---
 
-## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT
+## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT (PHIÊN BẢN CĂNG)
 
 | Thời gian | Hoạt động | Phút |
 |-----------|-----------|------|
-| 0:00 - 0:15 | Warm-up: Kiểm tra + Chữa bài | 15' |
-| 0:15 - 0:50 | Lý thuyết: Modal Verbs | 35' |
-| 0:50 - 0:55 | Nghỉ giải lao | 5' |
-| 0:55 - 1:20 | So sánh và phân biệt các Modals | 25' |
-| 1:20 - 1:45 | Thực hành: 20 câu trắc nghiệm | 25' |
-| 1:45 - 1:55 | Học từ vựng: 10 từ mới | 10' |
-| 1:55 - 2:00 | Giao bài tập về nhà + Dặn dò | 5' |
+| 0:00 - 0:10 | Kiểm tra + Chữa bài | 10' |
+| 0:10 - 0:30 | Lý thuyết: Modal Verbs cơ bản | 20' |
+| 0:30 - 0:45 | So sánh và phân biệt các Modals | 15' |
+| 0:45 - 0:50 | Nghỉ giải lao | 5' |
+| 0:50 - 1:10 | Thực hành A: 20 câu trắc nghiệm | 20' |
+| 1:10 - 1:30 | Thực hành B: 15 câu viết lại câu | 20' |
+| 1:30 - 1:45 | Thực hành C: 10 câu tìm lỗi sai | 15' |
+| 1:45 - 1:55 | Học từ vựng + Challenge | 10' |
+| 1:55 - 2:00 | Giao BTVN + Dặn dò | 5' |
+
+**⚡ LƯU Ý:** Must = bắt buộc, Should = nên, Have to = phải (do hoàn cảnh)!
 
 ---
 

@@ -1,46 +1,58 @@
-# 🔴 GIAI ĐOẠN 4: LUYỆN ĐỀ THỰC CHIẾN (TUẦN 17 - 20)
+# 🔴 GIAI ĐOẠN 4: LUYỆN ĐỀ THỰC CHIẾN (TUẦN 17 - 20) - PHIÊN BẢN CĂNG
 
 ## Mục tiêu: Rèn bản lĩnh phòng thi. Mỗi tuần làm 2 đề.
+
+**⚡ LƯU Ý QUAN TRỌNG CHO GIAI ĐOẠN 4:**
+- Mỗi đề có **60 câu** (tăng từ 40 câu)
+- Thời gian làm bài: **70 phút** (tăng từ 60 phút)
+- **Chấm điểm nghiêm ngặt** như thi thật
+- Phân tích lỗi sai chi tiết sau mỗi bài
+- Mục tiêu: Tăng dần từ 65 → 85 điểm
 
 ---
 
 # 📌 BUỔI 33-39: GIẢI ĐỀ FULL TEST
 
-## 📋 QUY TRÌNH MỖI BUỔI
+## 📋 QUY TRÌNH MỖI BUỔI (PHIÊN BẢN CĂNG)
 
 | Thời gian | Hoạt động | Phút |
 |-----------|-----------|------|
-| 0:00 - 0:05 | Phát đề, hướng dẫn | 5' |
-| 0:05 - 1:05 | Làm bài nghiêm túc | 60' |
-| 1:05 - 1:20 | Nghỉ giải lao | 15' |
-| 1:20 - 2:00 | Chữa chi tiết từng câu | 40' |
+| 0:00 - 0:05 | Phát đề, hướng dẫn nghiêm ngặt | 5' |
+| 0:05 - 1:15 | Làm bài nghiêm túc (70 phút) | 70' |
+| 1:15 - 1:20 | Nghỉ giải lao ngắn | 5' |
+| 1:20 - 2:00 | Chữa chi tiết + Phân tích lỗi sai | 40' |
+
+**⚠️ YÊU CẦU NGHIÊM NGẶT:**
+- Không mở sách, vở, điện thoại
+- Tự tính giờ như thi thật
+- Ghi lại số câu sai vào sổ theo dõi
 
 ---
 
-## 📊 THANG ĐIỂM MỤC TIÊU
+## 📊 THANG ĐIỂM MỤC TIÊU (NÂNG CAO)
 
-| Buổi | Mục tiêu điểm |
-|------|---------------|
-| Buổi 33 | ≥ 65 điểm |
-| Buổi 34 | ≥ 70 điểm |
-| Buổi 35 | ≥ 72 điểm |
-| Buổi 36 | ≥ 75 điểm |
-| Buổi 37 | ≥ 78 điểm |
-| Buổi 38 | ≥ 80 điểm |
-| Buổi 39 | ≥ 82 điểm |
+| Buổi | Mục tiêu điểm | Ghi chú |
+|------|---------------|---------|
+| Buổi 33 | ≥ 65 điểm | Làm quen đề |
+| Buổi 34 | ≥ 70 điểm | Nắm cấu trúc |
+| Buổi 35 | ≥ 72 điểm | Ổn định |
+| Buổi 36 | ≥ 75 điểm | Tiến bộ |
+| Buổi 37 | ≥ 78 điểm | Khá |
+| Buổi 38 | ≥ 80 điểm | **Đạt mục tiêu 8+** |
+| Buổi 39 | ≥ 85 điểm | Xuất sắc |
 
 ---
 
 # 📌 BUỔI 33 (THỨ 4): ĐỀ SỐ 1
 
-## CẤU TRÚC ĐỀ THI (60 phút - 100 điểm)
+## CẤU TRÚC ĐỀ THI (70 phút - 100 điểm) - NÂNG CAO
 
 ### PHẦN I: NGỮ ÂM (10 điểm)
 **A. Chọn từ có phần gạch chân phát âm khác (5 câu - 5 điểm)**
 **B. Chọn từ có trọng âm khác (5 câu - 5 điểm)**
 
-### PHẦN II: NGỮ PHÁP - TRẮC NGHIỆM (30 điểm)
-**15 câu trắc nghiệm - 2 điểm/câu**
+### PHẦN II: NGỮ PHÁP - TRẮC NGHIỆM (40 điểm)
+**20 câu trắc nghiệm - 2 điểm/câu**
 
 Các chủ đề:
 - Thì (Present, Past, Future, Perfect)

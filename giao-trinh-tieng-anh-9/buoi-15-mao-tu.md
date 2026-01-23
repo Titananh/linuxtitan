@@ -1,4 +1,4 @@
-# 📌 BUỔI 15 (THỨ 4): MẠO TỪ A/AN/THE
+# 📌 BUỔI 15 (THỨ 4): MẠO TỪ A/AN/THE - PHIÊN BẢN NÂNG CAO
 
 ## 📋 THÔNG TIN BUỔI HỌC
 | Mục | Chi tiết |
@@ -8,20 +8,26 @@
 | **Thời lượng:** | 120 phút (2 tiếng) |
 | **Ngày:** | Thứ 4 |
 | **Mục tiêu ngữ pháp:** | Cách dùng A, An, The, Zero Article |
+| **Độ khó:** | ⭐⭐⭐⭐ QUAN TRỌNG - Mạo từ hay sai trong đề thi |
+| **Tổng số bài tập:** | 45 câu thực hành + 15 câu nâng cao + 6 bài về nhà |
 
 ---
 
-## ⏰ PHÂN BỐ THỜI GIAN
+## ⏰ PHÂN BỐ THỜI GIAN (PHIÊN BẢN CĂNG)
 
 | Thời gian | Hoạt động | Phút |
 |-----------|-----------|------|
-| 0:00 - 0:15 | Warm-up: Kiểm tra + Chữa bài | 15' |
-| 0:15 - 0:50 | Lý thuyết: A/An/The | 35' |
-| 0:50 - 0:55 | Nghỉ giải lao | 5' |
-| 0:55 - 1:25 | Lý thuyết: Zero Article (không dùng mạo từ) | 30' |
-| 1:25 - 1:45 | Thực hành: 25 câu điền mạo từ | 20' |
-| 1:45 - 1:55 | Học từ vựng: 10 từ mới | 10' |
-| 1:55 - 2:00 | Giao bài tập về nhà + Dặn dò | 5' |
+| 0:00 - 0:10 | Kiểm tra + Chữa bài | 10' |
+| 0:10 - 0:30 | Lý thuyết: A/An/The | 20' |
+| 0:30 - 0:45 | Lý thuyết: Zero Article (không dùng mạo từ) | 15' |
+| 0:45 - 0:50 | Nghỉ giải lao | 5' |
+| 0:50 - 1:10 | Thực hành A: 20 câu trắc nghiệm | 20' |
+| 1:10 - 1:30 | Thực hành B: 15 câu điền mạo từ | 20' |
+| 1:30 - 1:45 | Thực hành C: 10 câu tìm lỗi sai | 15' |
+| 1:45 - 1:55 | Học từ vựng + Challenge | 10' |
+| 1:55 - 2:00 | Giao BTVN + Dặn dò | 5' |
+
+**⚡ LƯU Ý:** The + duy nhất/đã nhắc đến, A/An + chưa xác định!
 
 ---
 

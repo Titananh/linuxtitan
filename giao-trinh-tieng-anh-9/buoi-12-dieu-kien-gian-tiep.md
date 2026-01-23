@@ -1,4 +1,4 @@
-# 📌 BUỔI 12 (CHỦ NHẬT): CÂU ĐIỀU KIỆN & GIÁN TIẾP NÂNG CAO
+# 📌 BUỔI 12 (CHỦ NHẬT): CÂU ĐIỀU KIỆN & GIÁN TIẾP NÂNG CAO - PHIÊN BẢN CĂNG
 
 ## 📋 THÔNG TIN BUỔI HỌC
 | Mục | Chi tiết |
@@ -8,21 +8,26 @@
 | **Thời lượng:** | 120 phút (2 tiếng) |
 | **Ngày:** | Chủ Nhật |
 | **Mục tiêu ngữ pháp:** | Ôn tập câu điều kiện loại 1, 2 & Gián tiếp nâng cao |
+| **Độ khó:** | ⭐⭐⭐⭐ NÂNG CAO - Tổng hợp nhiều cấu trúc |
+| **Tổng số bài tập:** | 45 câu thực hành + 15 câu nâng cao + 6 bài về nhà |
 
 ---
 
-## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT
+## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT (PHIÊN BẢN CĂNG)
 
 | Thời gian | Hoạt động | Phút |
 |-----------|-----------|------|
-| 0:00 - 0:15 | Warm-up: Kiểm tra + Chữa bài | 15' |
-| 0:15 - 0:40 | Ôn tập: Câu điều kiện loại 1 & 2 | 25' |
-| 0:40 - 0:55 | Viết lại câu với câu điều kiện | 15' |
-| 0:55 - 1:00 | Nghỉ giải lao | 5' |
-| 1:00 - 1:25 | Gián tiếp nâng cao: Câu hỏi & Câu mệnh lệnh | 25' |
-| 1:25 - 1:45 | Thực hành tổng hợp | 20' |
-| 1:45 - 1:55 | Học từ vựng: 10 từ mới | 10' |
-| 1:55 - 2:00 | Giao bài tập về nhà + Dặn dò | 5' |
+| 0:00 - 0:10 | Kiểm tra + Chữa bài | 10' |
+| 0:10 - 0:25 | Ôn tập: Câu điều kiện loại 1 & 2 | 15' |
+| 0:25 - 0:40 | Gián tiếp nâng cao: Câu hỏi & Câu mệnh lệnh | 15' |
+| 0:40 - 0:45 | Nghỉ giải lao | 5' |
+| 0:45 - 1:05 | Thực hành A: 20 câu trắc nghiệm | 20' |
+| 1:05 - 1:25 | Thực hành B: 15 câu viết lại câu | 20' |
+| 1:25 - 1:40 | Thực hành C: 10 câu tìm lỗi sai | 15' |
+| 1:40 - 1:55 | Học từ vựng + Challenge | 15' |
+| 1:55 - 2:00 | Giao BTVN + Dặn dò | 5' |
+
+**⚡ LƯU Ý:** If + QKĐ = Loại 2, If + HTĐ = Loại 1!
 
 ---
 

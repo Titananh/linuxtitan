@@ -1,4 +1,4 @@
-# 📌 BUỔI 3 (THỨ 4): CHINH PHỤC QUÁ KHỨ ĐƠN
+# 📌 BUỔI 3 (THỨ 4): CHINH PHỤC QUÁ KHỨ ĐƠN - PHIÊN BẢN NÂNG CAO
 
 ## 📋 THÔNG TIN BUỔI HỌC
 | Mục | Chi tiết |
@@ -8,21 +8,26 @@
 | **Thời lượng:** | 120 phút (2 tiếng) |
 | **Ngày:** | Thứ 4 |
 | **Mục tiêu ngữ pháp:** | Thì Quá khứ đơn, Động từ bất quy tắc |
+| **Độ khó:** | ⭐⭐⭐ NÂNG CAO - Nhiều bài tập hơn |
+| **Tổng số bài tập:** | 45 câu thực hành + 15 câu nâng cao + 6 bài về nhà |
 
 ---
 
-## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT
+## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT (PHIÊN BẢN CĂNG)
 
 | Thời gian | Hoạt động | Phút |
 |-----------|-----------|------|
-| 0:00 - 0:15 | Warm-up: Kiểm tra từ vựng tuần trước | 15' |
-| 0:15 - 0:25 | Chữa bài tập về nhà | 10' |
-| 0:25 - 0:55 | Lý thuyết: Thì Quá khứ đơn | 30' |
+| 0:00 - 0:10 | Kiểm tra từ vựng tuần trước (10 từ) | 10' |
+| 0:10 - 0:20 | Chữa bài tập về nhà + Trò chơi ôn tập | 10' |
+| 0:20 - 0:40 | Lý thuyết: Thì Quá khứ đơn (Nhanh, trọng tâm) | 20' |
+| 0:40 - 0:55 | Lý thuyết: Động từ bất quy tắc (30 từ hay gặp) | 15' |
 | 0:55 - 1:00 | Nghỉ giải lao | 5' |
-| 1:00 - 1:25 | Lý thuyết: Động từ bất quy tắc | 25' |
-| 1:25 - 1:45 | Thực hành: 20 câu chia động từ | 20' |
-| 1:45 - 1:55 | Học từ vựng: 10 từ mới | 10' |
-| 1:55 - 2:00 | Giao bài tập về nhà + Dặn dò | 5' |
+| 1:00 - 1:20 | Thực hành A: 20 câu trắc nghiệm cơ bản | 20' |
+| 1:20 - 1:35 | Thực hành B: 15 câu chia động từ trong ngoặc | 15' |
+| 1:35 - 1:50 | Thực hành C: 10 câu tìm lỗi sai | 15' |
+| 1:50 - 2:00 | Học từ vựng + Challenge + BTVN | 10' |
+
+**⚡ LƯU Ý:** Kiểm tra từ vựng đầu giờ - không thuộc phải chép phạt!
 
 ---
 

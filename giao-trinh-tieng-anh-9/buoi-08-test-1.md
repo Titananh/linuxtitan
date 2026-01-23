@@ -1,4 +1,4 @@
-# 📌 BUỔI 8 (CHỦ NHẬT): BÀI TEST SỐ 1 (ĐỊNH KỲ)
+# 📌 BUỔI 8 (CHỦ NHẬT): BÀI TEST SỐ 1 - PHIÊN BẢN NÂNG CAO
 
 ## 📋 THÔNG TIN BUỔI HỌC
 | Mục | Chi tiết |
@@ -8,18 +8,22 @@
 | **Thời lượng:** | 120 phút (2 tiếng) |
 | **Ngày:** | Chủ Nhật |
 | **Mục tiêu:** | Kiểm tra kiến thức 4 tuần đầu |
+| **Độ khó:** | ⭐⭐⭐⭐⭐ TEST QUAN TRỌNG |
+| **Tổng số câu:** | 60 câu (thay vì 40 câu như trước) |
 
 ---
 
-## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT
+## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT (PHIÊN BẢN CĂNG)
 
 | Thời gian | Hoạt động | Phút |
 |-----------|-----------|------|
-| 0:00 - 0:05 | Phát đề, hướng dẫn | 5' |
-| 0:05 - 1:05 | Làm bài test | 60' |
-| 1:05 - 1:15 | Nghỉ giải lao | 10' |
-| 1:15 - 1:55 | Chữa bài chi tiết | 40' |
+| 0:00 - 0:05 | Phát đề, hướng dẫn nghiêm ngặt | 5' |
+| 0:05 - 1:10 | Làm bài test (65 phút thay vì 60) | 65' |
+| 1:10 - 1:15 | Nghỉ giải lao ngắn | 5' |
+| 1:15 - 1:55 | Chữa bài chi tiết + Phân tích lỗi sai | 40' |
 | 1:55 - 2:00 | Từ vựng bổ sung + Dặn dò | 5' |
+
+**⚡ YÊU CẦU:** Làm nghiêm túc như thi thật! Không nhìn tài liệu!
 
 ---
 

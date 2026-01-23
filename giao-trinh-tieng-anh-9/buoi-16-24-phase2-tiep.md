@@ -1,4 +1,11 @@
-# 📌 BUỔI 16-24: PHASE 2 TIẾP TỤC
+# 📌 BUỔI 16-24: PHASE 2 TIẾP TỤC - PHIÊN BẢN NÂNG CAO
+
+**⚡ LƯU Ý CHUNG CHO TẤT CẢ CÁC BUỔI:**
+- Mỗi buổi có **45 câu thực hành + 15 câu nâng cao + 6 bài về nhà**
+- Kiểm tra từ vựng đầu giờ (không thuộc = chép phạt 20 lần/từ)
+- Thời gian: 120 phút, phân bổ như các buổi trước
+
+---
 
 ## 📌 BUỔI 16 (CHỦ NHẬT): DANH TỪ GHÉP & LUYỆN ĐỌC HIỂU
 
@@ -8,6 +15,8 @@
 | **Tuần:** | 8 |
 | **Unit:** | 8 - TOURISM |
 | **Mục tiêu:** | Danh từ ghép, Luyện đọc hiểu |
+| **Độ khó:** | ⭐⭐⭐ NÂNG CAO |
+| **Tổng bài tập:** | 45 câu + 15 câu nâng cao + 6 BTVN |
 
 ### NỘI DUNG CHÍNH
 
@@ -48,6 +57,8 @@
 | **Tuần:** | 9 |
 | **Unit:** | 9 - ENGLISH IN THE WORLD |
 | **Mục tiêu:** | Ôn tập sâu câu điều kiện loại 2 |
+| **Độ khó:** | ⭐⭐⭐⭐ RẤT QUAN TRỌNG |
+| **Tổng bài tập:** | 45 câu + 15 câu nâng cao + 6 BTVN |
 
 ### NỘI DUNG CHÍNH
 

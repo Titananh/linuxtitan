@@ -1,4 +1,4 @@
-# 📌 BUỔI 6 (CHỦ NHẬT): CẤU TRÚC WH- + TO V & LUYỆN TẬP TỔNG HỢP
+# 📌 BUỔI 6 (CHỦ NHẬT): CẤU TRÚC WH- + TO V & LUYỆN TẬP TỔNG HỢP - PHIÊN BẢN NÂNG CAO
 
 ## 📋 THÔNG TIN BUỔI HỌC
 | Mục | Chi tiết |
@@ -8,21 +8,26 @@
 | **Thời lượng:** | 120 phút (2 tiếng) |
 | **Ngày:** | Chủ Nhật |
 | **Mục tiêu ngữ pháp:** | Question words + To-Infinitive, Ôn tập câu gián tiếp |
+| **Độ khó:** | ⭐⭐⭐ NÂNG CAO - Nhiều bài tập hơn |
+| **Tổng số bài tập:** | 45 câu thực hành + 15 câu nâng cao + 6 bài về nhà |
 
 ---
 
-## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT
+## ⏰ PHÂN BỐ THỜI GIAN CHI TIẾT (PHIÊN BẢN CĂNG)
 
 | Thời gian | Hoạt động | Phút |
 |-----------|-----------|------|
-| 0:00 - 0:15 | Warm-up: Kiểm tra từ vựng cảm xúc | 15' |
-| 0:15 - 0:20 | Chữa bài tập về nhà | 5' |
-| 0:20 - 0:50 | Lý thuyết: Cấu trúc Wh- + To V | 30' |
-| 0:50 - 0:55 | Nghỉ giải lao | 5' |
-| 0:55 - 1:25 | Thực hành: Bài tập nối câu và trắc nghiệm | 30' |
-| 1:25 - 1:45 | Ôn tập tổng hợp Unit 3 | 20' |
-| 1:45 - 1:55 | Học từ vựng: 10 động từ | 10' |
-| 1:55 - 2:00 | Giao bài tập về nhà + Dặn dò | 5' |
+| 0:00 - 0:10 | Kiểm tra từ vựng cảm xúc (10 từ) | 10' |
+| 0:10 - 0:20 | Chữa bài tập về nhà + Ôn gián tiếp | 10' |
+| 0:20 - 0:40 | Lý thuyết: Cấu trúc Wh- + To V | 20' |
+| 0:40 - 0:45 | Nghỉ giải lao | 5' |
+| 0:45 - 1:05 | Thực hành A: 20 câu trắc nghiệm | 20' |
+| 1:05 - 1:25 | Thực hành B: 15 câu nối câu/viết lại | 20' |
+| 1:25 - 1:40 | Thực hành C: 10 câu tìm lỗi sai | 15' |
+| 1:40 - 1:50 | Ôn tập tổng hợp Unit 3 | 10' |
+| 1:50 - 2:00 | Học từ vựng + Challenge + BTVN | 10' |
+
+**⚡ LƯU Ý:** Chuẩn bị tốt cho bài Test tuần sau!
 
 ---
 

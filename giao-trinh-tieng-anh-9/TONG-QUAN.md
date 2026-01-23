@@ -1,10 +1,28 @@
-# 📅 GIÁO TRÌNH DẠY HỌC 40 BUỔI: CHINH PHỤC ĐIỂM 8+
+# 📅 GIÁO TRÌNH DẠY HỌC 40 BUỔI: CHINH PHỤC ĐIỂM 8+ - PHIÊN BẢN NÂNG CAO
+
+## ⚡ PHIÊN BẢN CĂNG - NHIỀU BÀI TẬP HƠN
+
+> **Cập nhật:** Giáo trình đã được nâng cấp với nhiều bài tập hơn, căng hơn để đảm bảo học sinh đạt điểm cao!
+
+### 📊 SO SÁNH PHIÊN BẢN
+
+| Tiêu chí | Phiên bản cũ | Phiên bản NÂNG CAO |
+|----------|--------------|-------------------|
+| Bài tập thực hành/buổi | 20 câu | **45-55 câu** |
+| Bài tập nâng cao (Challenge) | 0 câu | **15-20 câu** |
+| Bài tập về nhà | 4 bài | **6 bài (~70 câu)** |
+| Kiểm tra đầu giờ | Không bắt buộc | **BẮT BUỘC** |
+| Chép phạt không thuộc từ | 5 lần | **20 lần/từ** |
+| Thời gian nghỉ | 10-15 phút | **5 phút** |
+
+---
 
 ## 📚 Thông Tin Chung
 - **Sách giáo khoa:** Global Success 9
 - **Đối tượng:** Học sinh lớp 9 (Từ 5 điểm lên 8+)
 - **Thời lượng:** 40 buổi, mỗi buổi 2 tiếng (120 phút)
 - **Lịch học:** Thứ 4 (Học mới) & Chủ Nhật (Thực hành sâu/Nâng cao)
+- **Phiên bản:** ⭐ NÂNG CAO - Căng hơn, nhiều bài tập hơn
 
 ## 📊 Đánh Giá Ban Đầu Của Học Sinh
 ### ✅ Điểm mạnh:
@@ -26,15 +44,18 @@
 | Thứ 4 | Danh từ & Tính từ | Dễ nhớ, liên quan chủ đề |
 | Chủ Nhật | Động từ & Cụm động từ | Khó hơn, dùng cho bài tập ngữ pháp |
 
-**Số lượng:** 10 từ/buổi (Bắt buộc chép phạt nếu không thuộc)
+**Số lượng:** 10 từ/buổi (Bắt buộc chép phạt 20 lần nếu không thuộc)
 
-### 📝 Quy Tắc Vàng Cho Gia Sư
+### 📝 Quy Tắc Vàng Cho Gia Sư (PHIÊN BẢN CĂNG)
 1. **Thứ 4 là để NẠP, Chủ Nhật là để THẤM**
-2. **Kiểm tra bài cũ xoay vòng:** 
+2. **Kiểm tra bài cũ xoay vòng - BẮT BUỘC:** 
    - Đầu giờ Thứ 4: Kiểm tra từ vựng Chủ Nhật tuần trước
    - Đầu giờ Chủ Nhật: Kiểm tra từ vựng Thứ 4 vừa học
 3. **Không tham từ vựng:** Đúng 10 từ khóa/buổi
 4. **Bắt học sinh đặt câu** với các từ đó
+5. **⚡ KHÔNG cho nghỉ nhiều** - làm việc liên tục
+6. **⚡ Gọi ngẫu nhiên** để học sinh luôn tập trung
+7. **⚡ Tính điểm từng phần** để tạo áp lực
 
 ---
 
